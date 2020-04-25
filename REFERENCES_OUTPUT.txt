@@ -1,0 +1,4 @@
+[4] Ahmedt-Aristizabal D, Fookes C, Nguyen K and Sridharan S 2018 Deep classification of epileptic signals (arXiv:1801.03610) #Cit:18
+[1] Aboalayon K A I, Faezipour M, Almuhammadi W S and Moslehpour S 2016 Sleep stage classification using EEG signal analysis: a comprehensive survey and new investigation Entropy 18 272 #Cit:99
+[3] Acharya U R, Sree S V, Swapna G, Martis R J and Suri J S 2013 Automated EEG analysis of epilepsy: a review Knowl.-Based Syst. 45 147–65 #Cit:396
+[2] Acharya U R, Oh S L, Hagiwara Y, Tan J H and Adeli H 2017 Deep convolutional neural network for the automated detection and diagnosis of seizure using EEG signals Computers in Biology and Medicine pp 1–9 #Cit:434
